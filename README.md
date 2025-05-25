@@ -1,3 +1,22 @@
+
+![1](https://github.com/user-attachments/assets/76783819-fa9e-4d4c-828b-8699ccdbbc21)
+![2](https://github.com/user-attachments/assets/b8721956-e706-4ba2-90d2-dd4448ab2f33)
+![3](https://github.com/user-attachments/assets/f1886f70-576a-43dc-9a94-5f02c6bb2b69)
+![4](https://github.com/user-attachments/assets/41925e4f-6158-417d-9e6c-b79c40287c24)
+![5](https://github.com/user-attachments/assets/dc593b18-909d-4b34-be76-2ee05aab438a)
+![6](https://github.com/user-attachments/assets/1b965ef6-fcb4-453f-bab3-a35aafe792a6)
+![7](https://github.com/user-attachments/assets/88bd14f9-c2d9-4442-ad17-e56d611a34d1)
+![8](https://github.com/user-attachments/assets/9d920db9-8ba4-44b9-b174-fff018954997)
+![9](https://github.com/user-attachments/assets/0c176fc7-8920-4399-a5b3-74ed395aadb1)
+![10](https://github.com/user-attachments/assets/e62c8c7e-d373-4396-9cbe-680719faf779)
+![11](https://github.com/user-attachments/assets/9c5bf5a6-9f65-4f23-b413-2b5a75cd7d0a)
+![12](https://github.com/user-attachments/assets/1e0996a0-92a3-4951-9b65-247c7dd1542f)
+![13](https://github.com/user-attachments/assets/3a8f5e6b-fbd1-4984-abd3-969379f4cce6)
+![14](https://github.com/user-attachments/assets/f62b91c9-97a8-43a6-8da7-a94e92fcfae9)
+![15](https://github.com/user-attachments/assets/a3486043-5353-46cc-9d3e-f96749767df6)
+![16](https://github.com/user-attachments/assets/a83d872a-60bc-45d7-b332-ec6910617932)
+
+
 ##  Lessons
 1. Introduciton to the course
 2. Install development tools
